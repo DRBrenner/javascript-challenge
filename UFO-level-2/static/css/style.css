@@ -63,7 +63,8 @@ body {
 }
 
 .fltr-btn-pad {
-  padding-bottom: 20px;
+  padding-bottom: 10px;
+  padding-top: 5px;
 }
 .filters {
   margin-top: 30px;

@@ -2,7 +2,12 @@
 
 # Purpose
 
-This was a Data Analytics course assignment designed to practice using D3 to call data 
+This was a Data Analytics course assignment designed to practice using D3 to append and filter data in a webpage table.  The exact assignment is described in the Homework Description section below.  I chose to do Level 1 and the optional Level 2 assignments.
+
+# Tools Used
+
+JavaScript, HTNL, CSS, and D3
+
 
 # JavaScript Homework Description
 

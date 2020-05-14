@@ -8,6 +8,10 @@ This was a Data Analytics course assignment designed to practice using D3 to app
 
 JavaScript, HTNL, CSS, and D3
 
+# To View
+
+Go to https://drbrenner.github.io/javascript-challenge/UFO-level-2/ or download the repository and open UFO-level-2/index.html in the browser.
+
 
 # JavaScript Homework Description
 
